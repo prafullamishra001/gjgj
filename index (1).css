@@ -1,0 +1,25 @@
+
+nav{flex-direction: column;}
+header{height: 100px;}
+
+
+.container{flex-direction: column;
+justify-content: space-between;}
+
+.box{height: 300px;
+    width: 300px;
+margin: 6px;}
+
+.center h1{font-size: 25px;}
+
+.center{height: 1500px;}
+
+#contact{margin-top: 20px;}
+
+#clients{overflow: scroll;}
+
+#client-section{margin-top: -150px;}
+
+#client-section h1{margin-bottom: 20px;}
+
+
